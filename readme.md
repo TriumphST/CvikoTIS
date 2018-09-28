@@ -12,7 +12,7 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-1.
+1. Jakub Valent
 2. Emil Zvarik
 3.
 4.
