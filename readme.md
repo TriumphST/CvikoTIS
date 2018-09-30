@@ -15,5 +15,5 @@ Nas tim tvoria clenovia:
 1. Jakub Valent
 2. Emil Zvarik
 3. David Demjen
-4.
+4. Konrad Muller
 
